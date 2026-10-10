@@ -1,0 +1,6 @@
+{
+  "name": "SocialTrove - Planes de Automatización WhatsApp con IA",
+  "description": "Convierte más conversaciones en clientes, sin trabajar más. Asistente inteligente que atiende, vende y da seguimiento por WhatsApp 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
